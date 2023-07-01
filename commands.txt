@@ -12,6 +12,11 @@ thunder client
 react router snippets
 
 
+
+Alter user'root'@'localhost'
+identified with
+mysql_native_password by 'abc';
+
 see run commands of BE and FE : 
 
 
