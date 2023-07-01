@@ -2,7 +2,7 @@ see git path prudently: https://github.com/RajKalshetty/demo123.git
 or https://github.com/Honeynara1/demo123.git
 or vs code meh gitclone
 
-genie  api key generated : google : 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 
+genie  api key generated : google : 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 
 
 raj:                       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
 thunder client
