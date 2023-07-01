@@ -3,9 +3,11 @@ or vs code meh gitclone
 https://github.com/RajKalshetty/demo123.git
 or
 
-genie  api key generated : google : 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 
+genie  api key generated :
+google : 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
 
-raj:                       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
+raj:     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
+rajat:   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          
 thunder client
 react router snippets
 
