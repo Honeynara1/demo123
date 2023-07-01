@@ -1,6 +1,7 @@
-see git path prudently: https://github.com/RajKalshetty/demo123.git
-or https://github.com/Honeynara1/demo123.git
+see git path prudently:  https://github.com/Honeynara1/demo123.git
 or vs code meh gitclone
+https://github.com/RajKalshetty/demo123.git
+or
 
 genie  api key generated : google : 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 
 
